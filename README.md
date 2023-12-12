@@ -26,5 +26,5 @@ Across all GPT names and descriptions, these are the 100 most common words
 
 | Word                  |   Frequency   |
 |:----------------------|--------------:|
-| expert            |      5297   |
-| guide            |      3612   |
+| expert            |      5,297   |
+| guide            |      3,612   |
