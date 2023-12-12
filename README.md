@@ -19,3 +19,12 @@ From Suefel - The GPT Management System.
 | 2023-12-8             |      31,657   |
 | 2023-12-10            |      32,617   |
 | 2023-12-12 |  39,155 |
+
+## Insight
+### Most Common Words
+Across all GPT names and descriptions, these are the 100 most common words
+
+| Word                  |   Frequency   |
+|:----------------------|--------------:|
+| expert            |      5297   |
+| guide            |      3612   |
