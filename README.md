@@ -8,7 +8,6 @@ From Suefel - The GPT Management System.
 - Use the [GPT](https://chatg.pt/gpt-search)
 - Integrate the data into your apps and GPTs with the [API](https://gpt-search-za6rvhzkqa-uc.a.run.app/). Get your free API key on your [Suefel Account page](https://suefel.com/account).
 
-| 2023-12-12 |  39,838 |
 ## Totals
 
 | Date                  |   Total GPTs  |
@@ -19,12 +18,11 @@ From Suefel - The GPT Management System.
 | 2023-12-6             |      30,670   |
 | 2023-12-8             |      31,657   |
 | 2023-12-10            |      32,617   |
-| 2023-12-12 |  39,155 |
 
-| 2023-12-12 |  39,920 |
 ## Insight
 
 ### Most Common Words
+Across all GPT names and descriptions, these are the 100 most common words
 
 | Word | Frequency |
 |:------|----------:|
@@ -127,10 +125,4 @@ From Suefel - The GPT Management System.
 | assists |  403 |
 | focusing |  399 |
 | user |  398 |
-| guide. |  397 |### Most Common Words
-Across all GPT names and descriptions, these are the 100 most common words
-
-| Word                  |   Frequency   |
-|:----------------------|--------------:|
-| expert            |      5,297   |
-| guide            |      3,612   |
+| guide. |  397 |
